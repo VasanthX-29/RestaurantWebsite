@@ -1,0 +1,72 @@
+.c-item
+{
+    height: 480px;
+}
+.c-img
+{
+    height: 100%;
+   object-fit: cover;
+}
+
+#welcomeContent
+{
+    text-align: center;
+    margin: 10px 0px;
+    background-color: antiquewhite;
+}
+
+#orderBtn
+{
+    margin:5px 0px;
+}
+#customNav
+{
+    background-color: antiquewhite;
+    font-weight: bold;
+   
+}
+#cardListTitle
+{
+    font-weight: bold;
+}
+.customcontainer h4{
+    margin: 20px 0px;
+}
+.customcontainer
+{
+    margin: 25px 0px;
+   
+
+
+}
+.customrow{
+    margin: 10px 0px;
+}
+
+.card-img
+{
+    width: 200px;
+    height: 200px;
+}
+#containsCards
+{
+    background-color: rgba(250, 235, 215,0.5);
+}
+
+#footer
+{
+    text-align: center;
+    margin: 10px 0px;
+    background-color: antiquewhite;
+    font-weight: 300px;
+    padding: 10px;
+}
+
+#aboutUs
+{
+    text-align: center;
+}
+#address
+{
+    margin: 10px 0px;
+}
